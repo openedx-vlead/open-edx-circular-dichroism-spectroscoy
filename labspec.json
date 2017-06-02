@@ -1,0 +1,114 @@
+{
+        "course": {"org": "IIITH","id": "cds", "display_name": "Circular Dichroism Spectroscopy"},
+        "overview": "Circular Dichroism Spectroscopy",
+        "experiments": [{"name": "Introduction",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Experiments"},
+					 {"name": "Objective"},	
+                                         {"name": "Target Audiance"},
+                                         {"name": "Pre-requisites"},
+		                         {"name": "Feedback"}
+		                         ]},
+                        {"name": "To determine the specific rotation of a sugar using a polarimeter",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         {"name": "Quizzes"},        
+                                         {"name": "Further Readings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                        {"name": "To understand the effect of chiral substances on plane polarized light as a function of wavelength",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         {"name": "Quizzes"},        
+                                         {"name": "Further Readings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                        {"name": "To study the Optical Rotatory Dispersion (ORD) of some chiral substances",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         {"name": "Quizzes"},        
+                                         {"name": "Further Readings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                        {"name": "To study the Circular Dichroism of some substances with chiral chromophores",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         {"name": "Quizzes"},        
+                                         {"name": "Further Readings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                        {"name": "To Study the operational details of a CD spectrometer",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         {"name": "Quizzes"},        
+                                         {"name": "Further Readings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                        {"name": "To Study the effect of Secondary Structure elements on CD spectrum of proteins",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         {"name": "Quizzes"},        
+                                         {"name": "Further Readings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                        {"name": "To deconvolute the CD spectrum of a given protein solution and to classify it in terms of its secondary structure elements",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         {"name": "Quizzes"},        
+                                         {"name": "Further Readings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                        {"name": "To study the thermal stability of proteins",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         {"name": "Quizzes"},        
+                                         {"name": "Further Readings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                        {"name": "To study the effect of chemical denaturants on protein stability",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         {"name": "Quizzes"},        
+                                         {"name": "Further Readings"},
+                                         {"name": "Feedback"}
+                                         ]},
+                         {"name": "To study the comparison between protein unfolding and protein aggregation in the presence of chemical denaturing agents",
+                         "subsections": [{"name": "Introduction"},
+                                         {"name": "Theory"},
+                                         {"name": "Objective"},
+                                         {"name": "Experiment"},
+                                         {"name": "Manual"}
+                                         {"name": "Quizzes"},        
+                                         {"name": "Further Readings"},
+                                         {"name": "Feedback"}
+                                         ]}
+                        ]
+
+}

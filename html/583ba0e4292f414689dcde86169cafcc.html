@@ -1,0 +1,31 @@
+<h2>Simulation</h2>
+<p><button onclick="popup()">Full Screen</button></p>
+<p></p>
+<p><iframe src="http://cds-iiith.vlabs.ac.in/exp2/emanim_ord_refrac.html" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" height="800" width="800"></iframe></p>
+<p></p>
+<script>// <![CDATA[
+function popup(){
+  window.open('http://cds-iiith.vlabs.ac.in/exp2/emanim_ord_refrac.html', '_blank', 'toolbar=0,location=0,menubar=0');
+ }
+// ]]></script>
+<script>// <![CDATA[
+// ****** ALSO MODIFY THE URLS GIVEN ABOVE **************
+// ********MODIFY THIS SECTION **************************
+
+var lab_id = "CDS"; 
+var exp_name = "To understand the effect of chiral substances on plane polarized light as a function of wavelength"
+var lab_name = " Circular Dichroism Spectroscopy"
+var user_id = "%%USER_ID%%"; //get the User ID as a string  
+var exp_id = "E99185"
+
+var server_url = "http://analytics-api.vlabs.ac.in/"
+
+var xhttp = new XMLHttpRequest();
+var urlstr = server_url + user_id + "," + lab_id + "," + lab_name + "," + exp_id + "," + exp_name
+xhttp.open("GET", urlstr, true);
+xhttp.send();
+
+// *******DO NOT MODIFY THIS SECTION AGAIN ************
+// ]]></script>
+<p>a</p>
+<p></p>
