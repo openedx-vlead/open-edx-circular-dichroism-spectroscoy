@@ -1,0 +1,34 @@
+<problem display_name="Multiple Choice" markdown="&#10;1. A real protein is composed of&#10;() only alpha helix.&#10;() only beta sheet.&#10;() combination of alpha helix and beta sheet.&#10;(x) combination of all possible secondary structures.&#10;&#10;2. CD spectrum of each individual secondary structures ______________ among themselves to form the CD    spectrum of the real protein.&#10;(x) Convolute.&#10;() Deconvolute.&#10;() Rearrange.&#10;() Add up.&#10;&#10;3. How to extract information of secondary structures from a real CD spectra of a protein?&#10;() It is never possible to get information about a particular secondary structure.&#10;() We need to have CD spectrum at different concentration of the protein. Then perform a statistical      analysis.&#10;(x) Mathematically we can deconvolute the CD spectrum of a real protein.&#10;() Only for a few number of proteins it is possible not for all.&#10;">
+
+<p>1. A real protein is composed of</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">only alpha helix.</choice>
+    <choice correct="false">only beta sheet.</choice>
+    <choice correct="false">combination of alpha helix and beta sheet.</choice>
+    <choice correct="true">combination of all possible secondary structures.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. CD spectrum of each individual secondary structures ______________ among themselves to form the CD    spectrum of the real protein.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">Convolute.</choice>
+    <choice correct="false">Deconvolute.</choice>
+    <choice correct="false">Rearrange.</choice>
+    <choice correct="false">Add up.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. How to extract information of secondary structures from a real CD spectra of a protein?</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">It is never possible to get information about a particular secondary structure.</choice>
+    <choice correct="false">We need to have CD spectrum at different concentration of the protein. Then perform a statistical      analysis.</choice>
+    <choice correct="true">Mathematically we can deconvolute the CD spectrum of a real protein.</choice>
+    <choice correct="false">Only for a few number of proteins it is possible not for all.</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

@@ -1,0 +1,74 @@
+<problem display_name="Multiple Choice" markdown="1. Superposition of one Right Circularly Polarised Light(RCPL) and one Left Circularly Polarised Light(LCPL) generates a __________ polarised light.&#10;() Elliptically&#10;(x) Plane&#10;() Right Circularly&#10;() Left Circularly&#10;&#10;2. In an anisotropic medium difference in RI of RCPL and LCPL causes ______________ in a plane polarised light.&#10;() circular dichroism.&#10;(x) optical rotation.&#10;() interference.&#10;()scattering&#10;&#10;3. In an anisotropic medium difference in absorbance of RCPL and LCPL causes ______________ in a plane polarised light.&#10;(x) circular dichroism&#10;() optical rotation&#10;() interference&#10;() scattering&#10;&#10;4.  If the difference between the RI of RCPL and LCPL is positive in an anisotropic medium, the optical rotation will be _________.&#10;(x) positive&#10;() negative&#10;() zero&#10;() imaginary&#10;&#10;5. In an anisotropic medium, for a larger difference of RI of RCPL and LCPL we will observe a ________ value of optical rotation.&#10;(x) larger&#10;() smaller&#10;() equal&#10;() can not say&#10;6. For the plane polarised light with higher wave length the magnitude of optical rotation will be __________.&#10;() higher&#10;(x) lower&#10;() same&#10;() can not say&#10;   &#10;7. Due to circular dichroism ___________ of a plane polarised changes.&#10;() wave length&#10;() palne of polarisation&#10;(x) state of polarisation&#10;()none of these&#10;&#10;">
+<p>1. Superposition of one Right Circularly Polarised Light(RCPL) and one Left Circularly Polarised Light(LCPL) generates a __________ polarised light.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">Elliptically</choice>
+    <choice correct="true">Plane</choice>
+    <choice correct="false">Right Circularly</choice>
+    <choice correct="false">Left Circularly</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>2. In an anisotropic medium difference in RI of RCPL and LCPL causes ______________ in a plane polarised light.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">circular dichroism.</choice>
+    <choice correct="true">optical rotation.</choice>
+    <choice correct="false">interference.</choice>
+    <choice correct="false">scattering</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>3. In an anisotropic medium difference in absorbance of RCPL and LCPL causes ______________ in a plane polarised light.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">circular dichroism</choice>
+    <choice correct="false">optical rotation</choice>
+    <choice correct="false">interference</choice>
+    <choice correct="false">scattering</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>4.  If the difference between the RI of RCPL and LCPL is positive in an anisotropic medium, the optical rotation will be _________.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">positive</choice>
+    <choice correct="false">negative</choice>
+    <choice correct="false">zero</choice>
+    <choice correct="false">imaginary</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>5. In an anisotropic medium, for a larger difference of RI of RCPL and LCPL we will observe a ________ value of optical rotation.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="true">larger</choice>
+    <choice correct="false">smaller</choice>
+    <choice correct="false">equal</choice>
+    <choice correct="false">can not say</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>6. For the plane polarised light with higher wave length the magnitude of optical rotation will be __________.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">higher</choice>
+    <choice correct="true">lower</choice>
+    <choice correct="false">same</choice>
+    <choice correct="false">can not say</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+<p>   </p>
+<p>7. Due to circular dichroism ___________ of a plane polarised changes.</p>
+<multiplechoiceresponse>
+  <choicegroup type="MultipleChoice">
+    <choice correct="false">wave length</choice>
+    <choice correct="false">palne of polarisation</choice>
+    <choice correct="true">state of polarisation</choice>
+    <choice correct="false">none of these</choice>
+  </choicegroup>
+</multiplechoiceresponse>
+
+
+</problem>

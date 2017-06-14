@@ -1,1 +1,26 @@
-{}
+{
+    "Circular_Dichroism_Spectroscopy.jpg": {
+        "contentType": "image/jpeg", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CDS", 
+            "name": "Circular_Dichroism_Spectroscopy.jpg", 
+            "org": "IIIT-H", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "Circular Dichroism Spectroscopy.jpg", 
+        "filename": "asset-v1:IIIT-H+CDS+Anytime+type@asset+block@Circular_Dichroism_Spectroscopy.jpg", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": [
+            "c4x", 
+            "IIIT-H", 
+            "CDS", 
+            "thumbnail", 
+            "Circular_Dichroism_Spectroscopy.jpg", 
+            null
+        ]
+    }
+}
