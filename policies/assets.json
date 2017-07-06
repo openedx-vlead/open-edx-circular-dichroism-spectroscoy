@@ -22,5 +22,73 @@
             "Circular_Dichroism_Spectroscopy.jpg", 
             null
         ]
+    }, 
+    "ORD_Movie.flv": {
+        "contentType": "video/x-flv", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CDS", 
+            "name": "ORD_Movie.flv", 
+            "org": "IIIT-H", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ORD_Movie.flv", 
+        "filename": "asset-v1:IIIT-H+CDS+Anytime+type@asset+block@ORD_Movie.flv", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "ORD_Movie_1_.flv": {
+        "contentType": "video/x-flv", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CDS", 
+            "name": "ORD_Movie_1_.flv", 
+            "org": "IIIT-H", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ORD_Movie(1).flv", 
+        "filename": "asset-v1:IIIT-H+CDS+Anytime+type@asset+block@ORD_Movie_1_.flv", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "ord_movie.mp4": {
+        "contentType": "video/mp4", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CDS", 
+            "name": "ord_movie.mp4", 
+            "org": "IIIT-H", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "ord_movie.mp4", 
+        "filename": "asset-v1:IIIT-H+CDS+Anytime+type@asset+block@ord_movie.mp4", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
+    }, 
+    "subs_manual_exp10.srt.sjson": {
+        "contentType": "application/json", 
+        "content_son": {
+            "category": "asset", 
+            "course": "CDS", 
+            "name": "subs_manual_exp10.srt.sjson", 
+            "org": "IIIT-H", 
+            "revision": null, 
+            "run": "Anytime", 
+            "tag": "c4x"
+        }, 
+        "displayname": "subs_manual_exp10.srt.sjson", 
+        "filename": "asset-v1:IIIT-H+CDS+Anytime+type@asset+block@subs_manual_exp10.srt.sjson", 
+        "import_path": null, 
+        "locked": false, 
+        "thumbnail_location": null
     }
 }
