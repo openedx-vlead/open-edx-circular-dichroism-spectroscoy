@@ -1,54 +1,47 @@
 <problem display_name="Multiple Choice" markdown="&#10;1. In the experiment we have seen graphs where in the Y-axis there is &quot;Milli-degrees&quot;. It is a measurement of ____________ ?&#10;() angle of rotation&#10;() Specific rotation&#10;(x) Ellipticity&#10;() None of the above are correct&#10;&#10;2. CONTIN is __________ based process of deconvolution.&#10;() Linear regression.&#10;(x) Ridge Regression.&#10;() Neural network.&#10;() None of the above are correct&#10;&#10;3. Which one of the following is a Neural Network based method of Deconvolution?&#10;() CONTIN.&#10;(x) K2D.&#10;() SVD.&#10;() All of the above are correct&#10;&#10;4. If alpha helical and beta sheet regions occur in independent regions of a protein molecule, it will be counted under _______________ class.&#10;(x) Alpha + Beta.&#10;() Alpha/Beta.&#10;() All alpha.&#10;() None of the above are correct.&#10;&#10;5. Ribonuclease A is an example of _______________ class.&#10;() All alpha.&#10;(x) Alpha + beta.&#10;() Alpha/beta.&#10;() Alpha - beta">
-
-<p>1. In the experiment we have seen graphs where in the Y-axis there is "Milli-degrees". It is a measurement of ____________ ?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">angle of rotation</choice>
-    <choice correct="false">Specific rotation</choice>
-    <choice correct="true">Ellipticity</choice>
-    <choice correct="false">None of the above are correct</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. CONTIN is __________ based process of deconvolution.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Linear regression.</choice>
-    <choice correct="true">Ridge Regression.</choice>
-    <choice correct="false">Neural network.</choice>
-    <choice correct="false">None of the above are correct</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. Which one of the following is a Neural Network based method of Deconvolution?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">CONTIN.</choice>
-    <choice correct="true">K2D.</choice>
-    <choice correct="false">SVD.</choice>
-    <choice correct="false">All of the above are correct</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. If alpha helical and beta sheet regions occur in independent regions of a protein molecule, it will be counted under _______________ class.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Alpha + Beta.</choice>
-    <choice correct="false">Alpha/Beta.</choice>
-    <choice correct="false">All alpha.</choice>
-    <choice correct="false">None of the above are correct.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. Ribonuclease A is an example of _______________ class.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">All alpha.</choice>
-    <choice correct="true">Alpha + beta.</choice>
-    <choice correct="false">Alpha/beta.</choice>
-    <choice correct="false">Alpha - beta</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. In the experiment we have seen graphs where in the Y-axis there is "Milli-degrees". It is a measurement of ____________ ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">angle of rotation</choice>
+      <choice correct="false">Specific rotation</choice>
+      <choice correct="true">Ellipticity</choice>
+      <choice correct="false">None of the above are correct</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. CONTIN is __________ based process of deconvolution.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Linear regression.</choice>
+      <choice correct="true">Ridge Regression.</choice>
+      <choice correct="false">Neural network.</choice>
+      <choice correct="false">None of the above are correct</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. Which one of the following is a Neural Network based method of Deconvolution?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">CONTIN.</choice>
+      <choice correct="true">K2D.</choice>
+      <choice correct="false">SVD.</choice>
+      <choice correct="false">All of the above are correct</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. If alpha helical and beta sheet regions occur in independent regions of a protein molecule, it will be counted under _______________ class.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Alpha + Beta.</choice>
+      <choice correct="false">Alpha/Beta.</choice>
+      <choice correct="false">All alpha.</choice>
+      <choice correct="false">None of the above are correct.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. Ribonuclease A is an example of _______________ class.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">All alpha.</choice>
+      <choice correct="true">Alpha + beta.</choice>
+      <choice correct="false">Alpha/beta.</choice>
+      <choice correct="false">Alpha - beta</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

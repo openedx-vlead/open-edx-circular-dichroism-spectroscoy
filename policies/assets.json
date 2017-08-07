@@ -3,7 +3,7 @@
         "contentType": "image/jpeg", 
         "content_son": {
             "category": "asset", 
-            "course": "CDS", 
+            "course": "CDS-IIITH", 
             "name": "Circular_Dichroism_Spectroscopy.jpg", 
             "org": "IIIT-H", 
             "revision": null, 
@@ -11,13 +11,13 @@
             "tag": "c4x"
         }, 
         "displayname": "Circular Dichroism Spectroscopy.jpg", 
-        "filename": "asset-v1:IIIT-H+CDS+Anytime+type@asset+block@Circular_Dichroism_Spectroscopy.jpg", 
-        "import_path": null, 
+        "filename": "asset-v1:IIIT-H+CDS-IIITH+Anytime+type@asset+block@Circular_Dichroism_Spectroscopy.jpg", 
+        "import_path": "Circular Dichroism Spectroscopy.jpg", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
             "IIIT-H", 
-            "CDS", 
+            "CDS-IIITH", 
             "thumbnail", 
             "Circular_Dichroism_Spectroscopy.jpg", 
             null
@@ -27,7 +27,7 @@
         "contentType": "video/x-flv", 
         "content_son": {
             "category": "asset", 
-            "course": "CDS", 
+            "course": "CDS-IIITH", 
             "name": "ORD_Movie.flv", 
             "org": "IIIT-H", 
             "revision": null, 
@@ -35,8 +35,8 @@
             "tag": "c4x"
         }, 
         "displayname": "ORD_Movie.flv", 
-        "filename": "asset-v1:IIIT-H+CDS+Anytime+type@asset+block@ORD_Movie.flv", 
-        "import_path": null, 
+        "filename": "asset-v1:IIIT-H+CDS-IIITH+Anytime+type@asset+block@ORD_Movie.flv", 
+        "import_path": "ORD_Movie.flv", 
         "locked": false, 
         "thumbnail_location": null
     }, 
@@ -44,7 +44,7 @@
         "contentType": "video/x-flv", 
         "content_son": {
             "category": "asset", 
-            "course": "CDS", 
+            "course": "CDS-IIITH", 
             "name": "ORD_Movie_1_.flv", 
             "org": "IIIT-H", 
             "revision": null, 
@@ -52,8 +52,8 @@
             "tag": "c4x"
         }, 
         "displayname": "ORD_Movie(1).flv", 
-        "filename": "asset-v1:IIIT-H+CDS+Anytime+type@asset+block@ORD_Movie_1_.flv", 
-        "import_path": null, 
+        "filename": "asset-v1:IIIT-H+CDS-IIITH+Anytime+type@asset+block@ORD_Movie_1_.flv", 
+        "import_path": "ORD_Movie(1).flv", 
         "locked": false, 
         "thumbnail_location": null
     }, 
@@ -61,7 +61,7 @@
         "contentType": "video/mp4", 
         "content_son": {
             "category": "asset", 
-            "course": "CDS", 
+            "course": "CDS-IIITH", 
             "name": "ord_movie.mp4", 
             "org": "IIIT-H", 
             "revision": null, 
@@ -69,8 +69,8 @@
             "tag": "c4x"
         }, 
         "displayname": "ord_movie.mp4", 
-        "filename": "asset-v1:IIIT-H+CDS+Anytime+type@asset+block@ord_movie.mp4", 
-        "import_path": null, 
+        "filename": "asset-v1:IIIT-H+CDS-IIITH+Anytime+type@asset+block@ord_movie.mp4", 
+        "import_path": "ord_movie.mp4", 
         "locked": false, 
         "thumbnail_location": null
     }, 
@@ -78,7 +78,7 @@
         "contentType": "application/json", 
         "content_son": {
             "category": "asset", 
-            "course": "CDS", 
+            "course": "CDS-IIITH", 
             "name": "subs_manual_exp10.srt.sjson", 
             "org": "IIIT-H", 
             "revision": null, 
@@ -86,8 +86,8 @@
             "tag": "c4x"
         }, 
         "displayname": "subs_manual_exp10.srt.sjson", 
-        "filename": "asset-v1:IIIT-H+CDS+Anytime+type@asset+block@subs_manual_exp10.srt.sjson", 
-        "import_path": null, 
+        "filename": "asset-v1:IIIT-H+CDS-IIITH+Anytime+type@asset+block@subs_manual_exp10.srt.sjson", 
+        "import_path": "subs_manual_exp10.srt.sjson", 
         "locked": false, 
         "thumbnail_location": null
     }

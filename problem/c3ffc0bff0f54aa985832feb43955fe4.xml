@@ -1,83 +1,74 @@
 <problem display_name="Multiple Choice" markdown="1. The passage of folded state of a protein is opposed by:&#10;() hydrophobic interaction&#10;() formation of hydrogen bonds&#10;(x) conformational entropy&#10;() Van der Waals forces&#10;&#10;&#10;2. The regular alpha helix and beta sheet structures fold rapidly because they are stabilized by:&#10;() intermolecular hydrogen bonding&#10;() Van der Waals forces&#10;() inert pair effect&#10;(x) intramolecular hydrogen bonding&#10;&#10;&#10;3. Denaturation midpoint is defined as that temperature (Tm) or denaturant concentration (Cm) at which:&#10;() both the folded and unfolded states are over populated.&#10;() the folded state is over populated than the unfolded state.&#10;() the folded state is under populated than the unfolded state.&#10;(x) both the folded and unfolded states are equally populated.&#10;&#10;&#10;4. The helix that forms in a protein chain as a result of hydrogen bonds and other weak forces is an example of&#10;() primary structure of protein.&#10;(x) secondary structure of protein.&#10;() tertiary structure of protein.&#10;() non-linear structure of protein&#10;&#10;&#10;5. When an egg is fried, what happens to the protein in the egg?&#10;() amino acids form new proteins&#10;(x) the protein is denatured&#10;() because the heat removes water, the hydrophilic amino acids leave the pan&#10;() the heat converts the protein into water&#10;&#10;6. Denaturation of proteins doesn't involves the disruption of:&#10;() Quaternary structure.&#10;() Secondary structure.&#10;(x) Primary structure.&#10;() Tertiary structure.&#10;&#10;7. Heat can be used to disrupt hydrogen bonds and non-polar hydrophobic interactions because:&#10;() increase in ionic repulsion.&#10;(x) increase in kinetic energy.&#10;() increase in potential energy.&#10;() none of the above.&#10;&#10;8. Rhodopsin consists of the protein moiety opsin. Opsin consists of a bundle of how many transmembrane helices?&#10;() 4&#10;() 9&#10;(x) 7&#10;() 5&#10;&#10;&#10;&#10;&#10;" showanswer="answered">
-<p>1. The passage of folded state of a protein is opposed by:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">hydrophobic interaction</choice>
-    <choice correct="false">formation of hydrogen bonds</choice>
-    <choice correct="true">conformational entropy</choice>
-    <choice correct="false">Van der Waals forces</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. The regular alpha helix and beta sheet structures fold rapidly because they are stabilized by:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">intermolecular hydrogen bonding</choice>
-    <choice correct="false">Van der Waals forces</choice>
-    <choice correct="false">inert pair effect</choice>
-    <choice correct="true">intramolecular hydrogen bonding</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. Denaturation midpoint is defined as that temperature (Tm) or denaturant concentration (Cm) at which:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">both the folded and unfolded states are over populated.</choice>
-    <choice correct="false">the folded state is over populated than the unfolded state.</choice>
-    <choice correct="false">the folded state is under populated than the unfolded state.</choice>
-    <choice correct="true">both the folded and unfolded states are equally populated.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. The helix that forms in a protein chain as a result of hydrogen bonds and other weak forces is an example of</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">primary structure of protein.</choice>
-    <choice correct="true">secondary structure of protein.</choice>
-    <choice correct="false">tertiary structure of protein.</choice>
-    <choice correct="false">non-linear structure of protein</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. When an egg is fried, what happens to the protein in the egg?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">amino acids form new proteins</choice>
-    <choice correct="true">the protein is denatured</choice>
-    <choice correct="false">because the heat removes water, the hydrophilic amino acids leave the pan</choice>
-    <choice correct="false">the heat converts the protein into water</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>6. Denaturation of proteins doesn't involves the disruption of:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Quaternary structure.</choice>
-    <choice correct="false">Secondary structure.</choice>
-    <choice correct="true">Primary structure.</choice>
-    <choice correct="false">Tertiary structure.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>7. Heat can be used to disrupt hydrogen bonds and non-polar hydrophobic interactions because:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">increase in ionic repulsion.</choice>
-    <choice correct="true">increase in kinetic energy.</choice>
-    <choice correct="false">increase in potential energy.</choice>
-    <choice correct="false">none of the above.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>8. Rhodopsin consists of the protein moiety opsin. Opsin consists of a bundle of how many transmembrane helices?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">4</choice>
-    <choice correct="false">9</choice>
-    <choice correct="true">7</choice>
-    <choice correct="false">5</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. The passage of folded state of a protein is opposed by:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">hydrophobic interaction</choice>
+      <choice correct="false">formation of hydrogen bonds</choice>
+      <choice correct="true">conformational entropy</choice>
+      <choice correct="false">Van der Waals forces</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. The regular alpha helix and beta sheet structures fold rapidly because they are stabilized by:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">intermolecular hydrogen bonding</choice>
+      <choice correct="false">Van der Waals forces</choice>
+      <choice correct="false">inert pair effect</choice>
+      <choice correct="true">intramolecular hydrogen bonding</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. Denaturation midpoint is defined as that temperature (Tm) or denaturant concentration (Cm) at which:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">both the folded and unfolded states are over populated.</choice>
+      <choice correct="false">the folded state is over populated than the unfolded state.</choice>
+      <choice correct="false">the folded state is under populated than the unfolded state.</choice>
+      <choice correct="true">both the folded and unfolded states are equally populated.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. The helix that forms in a protein chain as a result of hydrogen bonds and other weak forces is an example of</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">primary structure of protein.</choice>
+      <choice correct="true">secondary structure of protein.</choice>
+      <choice correct="false">tertiary structure of protein.</choice>
+      <choice correct="false">non-linear structure of protein</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. When an egg is fried, what happens to the protein in the egg?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">amino acids form new proteins</choice>
+      <choice correct="true">the protein is denatured</choice>
+      <choice correct="false">because the heat removes water, the hydrophilic amino acids leave the pan</choice>
+      <choice correct="false">the heat converts the protein into water</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>6. Denaturation of proteins doesn't involves the disruption of:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Quaternary structure.</choice>
+      <choice correct="false">Secondary structure.</choice>
+      <choice correct="true">Primary structure.</choice>
+      <choice correct="false">Tertiary structure.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>7. Heat can be used to disrupt hydrogen bonds and non-polar hydrophobic interactions because:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">increase in ionic repulsion.</choice>
+      <choice correct="true">increase in kinetic energy.</choice>
+      <choice correct="false">increase in potential energy.</choice>
+      <choice correct="false">none of the above.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>8. Rhodopsin consists of the protein moiety opsin. Opsin consists of a bundle of how many transmembrane helices?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">4</choice>
+      <choice correct="false">9</choice>
+      <choice correct="true">7</choice>
+      <choice correct="false">5</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

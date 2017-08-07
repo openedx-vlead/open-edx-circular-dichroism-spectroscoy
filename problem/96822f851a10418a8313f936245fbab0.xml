@@ -1,33 +1,29 @@
 <problem display_name="Multiple Choice" markdown="1. All chiral substances exhibit _____ but some exhibits ________.&#10;() CD, ORD&#10;() ORD, CD&#10;(x) ORD ,ORD&#10;() CD ,CD&#10;&#10;2. ORD is an ________ phenomena where as CD is an __________ phenomena.&#10;() Absorptive, Dispersive&#10;(x) Natural, super-natural&#10;() Dispersive, Absorptive&#10;() Classical, Relativistic&#10;&#10;3. To study structure of macro molecules like protein in most of the cases _____ is preferred over ______.&#10;(x) CD ,ORD&#10;() ORD,CD&#10;() IR ,CD&#10;() UV , ORD&#10;" showanswer="always">
-<p>1. All chiral substances exhibit _____ but some exhibits ________.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">CD, ORD</choice>
-    <choice correct="false">ORD, CD</choice>
-    <choice correct="true">ORD ,ORD</choice>
-    <choice correct="false">CD ,CD</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. ORD is an ________ phenomena where as CD is an __________ phenomena.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Absorptive, Dispersive</choice>
-    <choice correct="true">Natural, super-natural</choice>
-    <choice correct="false">Dispersive, Absorptive</choice>
-    <choice correct="false">Classical, Relativistic</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. To study structure of macro molecules like protein in most of the cases _____ is preferred over ______.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">CD ,ORD</choice>
-    <choice correct="false">ORD,CD</choice>
-    <choice correct="false">IR ,CD</choice>
-    <choice correct="false">UV , ORD</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. All chiral substances exhibit _____ but some exhibits ________.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">CD, ORD</choice>
+      <choice correct="false">ORD, CD</choice>
+      <choice correct="true">ORD ,ORD</choice>
+      <choice correct="false">CD ,CD</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. ORD is an ________ phenomena where as CD is an __________ phenomena.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Absorptive, Dispersive</choice>
+      <choice correct="true">Natural, super-natural</choice>
+      <choice correct="false">Dispersive, Absorptive</choice>
+      <choice correct="false">Classical, Relativistic</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. To study structure of macro molecules like protein in most of the cases _____ is preferred over ______.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">CD ,ORD</choice>
+      <choice correct="false">ORD,CD</choice>
+      <choice correct="false">IR ,CD</choice>
+      <choice correct="false">UV , ORD</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

@@ -1,63 +1,56 @@
 <problem display_name="Multiple Choice" markdown=" 1. Nitrogen purging should be done:&#10;&#10;    (x) Before switching on the light source&#10;    () After switching on the light source&#10;    () Any time during the measurement&#10;    () None of the above are correct&#10;&#10;&#10;2. Reason for purging Nitrogen in the chamber of the CD spectrometer is:&#10;&#10;    () Nitrogen is an inert gas.&#10;    (x) Oxygen present may be converted to ozone by far-UV light from the high intensity arc, and             ozone will damage optical surfaces&#10;    () Nitrogen Gas(N2)makes up 78.03% of the air.&#10;    () None of the above are correct&#10;&#10;&#10;3. Why it is essential to run a blank spectrum with buffer or solvent system before measuring the spectrum for sample:&#10;&#10;    (x) In order to check that the absorbance and High Tension voltage is not excessive.&#10;    () To measure the absorbance of buffer.&#10;    () Selection of good buffer.&#10;    () All of the above are correct&#10;&#10;4. Why the regulation of temperature of the cell holder is important:&#10;&#10;    () To prevent the optics from damage.&#10;    (x) To keep the sample in homogenized state and avoid sample denaturation.&#10;    () To maintain the temperature of the buffer or solvent used.&#10;    () None of the above are correct.&#10;&#10;5. How much time is required for the machine to warm up and achieve stability&#10;&#10;    () 1 min&#10;    () 10 min&#10;    () 15 min&#10;    (x) 30 min&#10;&#10;6. The optimum path length generally required for:&#10;&#10;    (x) Far UV CD spectra.&#10;    () Near UV CD spectra.&#10;    () None of the above are correct.&#10;    () Both (A) and (B) are correct.&#10;&#10;">
-<p> 1. Nitrogen purging should be done:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Before switching on the light source</choice>
-    <choice correct="false">After switching on the light source</choice>
-    <choice correct="false">Any time during the measurement</choice>
-    <choice correct="false">None of the above are correct</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. Reason for purging Nitrogen in the chamber of the CD spectrometer is:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Nitrogen is an inert gas.</choice>
-    <choice correct="true">Oxygen present may be converted to ozone by far-UV light from the high intensity arc, and             ozone will damage optical surfaces</choice>
-    <choice correct="false">Nitrogen Gas(N2)makes up 78.03% of the air.</choice>
-    <choice correct="false">None of the above are correct</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. Why it is essential to run a blank spectrum with buffer or solvent system before measuring the spectrum for sample:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">In order to check that the absorbance and High Tension voltage is not excessive.</choice>
-    <choice correct="false">To measure the absorbance of buffer.</choice>
-    <choice correct="false">Selection of good buffer.</choice>
-    <choice correct="false">All of the above are correct</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. Why the regulation of temperature of the cell holder is important:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">To prevent the optics from damage.</choice>
-    <choice correct="true">To keep the sample in homogenized state and avoid sample denaturation.</choice>
-    <choice correct="false">To maintain the temperature of the buffer or solvent used.</choice>
-    <choice correct="false">None of the above are correct.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. How much time is required for the machine to warm up and achieve stability</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">1 min</choice>
-    <choice correct="false">10 min</choice>
-    <choice correct="false">15 min</choice>
-    <choice correct="true">30 min</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>6. The optimum path length generally required for:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Far UV CD spectra.</choice>
-    <choice correct="false">Near UV CD spectra.</choice>
-    <choice correct="false">None of the above are correct.</choice>
-    <choice correct="false">Both (A) and (B) are correct.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p> 1. Nitrogen purging should be done:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Before switching on the light source</choice>
+      <choice correct="false">After switching on the light source</choice>
+      <choice correct="false">Any time during the measurement</choice>
+      <choice correct="false">None of the above are correct</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. Reason for purging Nitrogen in the chamber of the CD spectrometer is:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Nitrogen is an inert gas.</choice>
+      <choice correct="true">Oxygen present may be converted to ozone by far-UV light from the high intensity arc, and             ozone will damage optical surfaces</choice>
+      <choice correct="false">Nitrogen Gas(N2)makes up 78.03% of the air.</choice>
+      <choice correct="false">None of the above are correct</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. Why it is essential to run a blank spectrum with buffer or solvent system before measuring the spectrum for sample:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">In order to check that the absorbance and High Tension voltage is not excessive.</choice>
+      <choice correct="false">To measure the absorbance of buffer.</choice>
+      <choice correct="false">Selection of good buffer.</choice>
+      <choice correct="false">All of the above are correct</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. Why the regulation of temperature of the cell holder is important:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">To prevent the optics from damage.</choice>
+      <choice correct="true">To keep the sample in homogenized state and avoid sample denaturation.</choice>
+      <choice correct="false">To maintain the temperature of the buffer or solvent used.</choice>
+      <choice correct="false">None of the above are correct.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. How much time is required for the machine to warm up and achieve stability</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">1 min</choice>
+      <choice correct="false">10 min</choice>
+      <choice correct="false">15 min</choice>
+      <choice correct="true">30 min</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>6. The optimum path length generally required for:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Far UV CD spectra.</choice>
+      <choice correct="false">Near UV CD spectra.</choice>
+      <choice correct="false">None of the above are correct.</choice>
+      <choice correct="false">Both (A) and (B) are correct.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

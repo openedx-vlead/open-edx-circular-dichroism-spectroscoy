@@ -1,63 +1,56 @@
 <problem display_name="Multiple Choice" markdown="1. In proteins the chiral center is present at:&#10;() Nitrogen of amino group.&#10;() Carbon of carboxyl group.&#10;(x) Alpha carbon.&#10;() Oxygen in carbonyl group.&#10;&#10;2. CD signals in the far UV region(180-250nm) are helpful for secondary structure analysis due to&#10;(x) Peptide bond absorption.&#10;() Aromatic side chain absorption.&#10;() Disulphide bond absorption.&#10;() None of the above are correct&#10;&#10;3. CD signals in the near UV region(250-320 nm) provide tertiray structural information due to?&#10;() Peptide bond absorption.&#10;(x) Aromatic side chain absorption.&#10;() Disulphide bond absorption.&#10;()All of the above are correct&#10;&#10;4. Electronic transition taking place at 220nm&#10;(x) n - π*.&#10;() π- π*.&#10;() Both of the above.&#10;() None of the above are correct.&#10;&#10;5. Electronic transition taking place at 190nm&#10;() n - π*.&#10;(x) π- π*.&#10;() Both A and B.&#10;() None of the above.&#10;&#10;6. The π--&gt; π* transition shows negative peak in which of the following secondary structures&#10;() Alpha helix.&#10;(x) Beta sheet.&#10;() Random coil.&#10;() None of the above.&#10;">
-<p>1. In proteins the chiral center is present at:</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Nitrogen of amino group.</choice>
-    <choice correct="false">Carbon of carboxyl group.</choice>
-    <choice correct="true">Alpha carbon.</choice>
-    <choice correct="false">Oxygen in carbonyl group.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. CD signals in the far UV region(180-250nm) are helpful for secondary structure analysis due to</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Peptide bond absorption.</choice>
-    <choice correct="false">Aromatic side chain absorption.</choice>
-    <choice correct="false">Disulphide bond absorption.</choice>
-    <choice correct="false">None of the above are correct</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. CD signals in the near UV region(250-320 nm) provide tertiray structural information due to?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Peptide bond absorption.</choice>
-    <choice correct="true">Aromatic side chain absorption.</choice>
-    <choice correct="false">Disulphide bond absorption.</choice>
-    <choice correct="false">All of the above are correct</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. Electronic transition taking place at 220nm</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">n - π*.</choice>
-    <choice correct="false">π- π*.</choice>
-    <choice correct="false">Both of the above.</choice>
-    <choice correct="false">None of the above are correct.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. Electronic transition taking place at 190nm</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">n - π*.</choice>
-    <choice correct="true">π- π*.</choice>
-    <choice correct="false">Both A and B.</choice>
-    <choice correct="false">None of the above.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>6. The π--&gt; π* transition shows negative peak in which of the following secondary structures</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Alpha helix.</choice>
-    <choice correct="true">Beta sheet.</choice>
-    <choice correct="false">Random coil.</choice>
-    <choice correct="false">None of the above.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-
+  <p>1. In proteins the chiral center is present at:</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Nitrogen of amino group.</choice>
+      <choice correct="false">Carbon of carboxyl group.</choice>
+      <choice correct="true">Alpha carbon.</choice>
+      <choice correct="false">Oxygen in carbonyl group.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. CD signals in the far UV region(180-250nm) are helpful for secondary structure analysis due to</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Peptide bond absorption.</choice>
+      <choice correct="false">Aromatic side chain absorption.</choice>
+      <choice correct="false">Disulphide bond absorption.</choice>
+      <choice correct="false">None of the above are correct</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. CD signals in the near UV region(250-320 nm) provide tertiray structural information due to?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Peptide bond absorption.</choice>
+      <choice correct="true">Aromatic side chain absorption.</choice>
+      <choice correct="false">Disulphide bond absorption.</choice>
+      <choice correct="false">All of the above are correct</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. Electronic transition taking place at 220nm</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">n - π*.</choice>
+      <choice correct="false">π- π*.</choice>
+      <choice correct="false">Both of the above.</choice>
+      <choice correct="false">None of the above are correct.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. Electronic transition taking place at 190nm</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">n - π*.</choice>
+      <choice correct="true">π- π*.</choice>
+      <choice correct="false">Both A and B.</choice>
+      <choice correct="false">None of the above.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>6. The π--&gt; π* transition shows negative peak in which of the following secondary structures</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Alpha helix.</choice>
+      <choice correct="true">Beta sheet.</choice>
+      <choice correct="false">Random coil.</choice>
+      <choice correct="false">None of the above.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
 </problem>

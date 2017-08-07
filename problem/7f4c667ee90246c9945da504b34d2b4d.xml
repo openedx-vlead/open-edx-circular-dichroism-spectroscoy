@@ -1,66 +1,58 @@
 <problem display_name="Multiple Choice" markdown="&#10;1. How does polarized light differ from the ordinary light?&#10;(x) Polarized light have vibrations in single plane where as ordinary light have vibrations in more  &#9; than one plane .&#10;() Polarized light have vibrations in more than one plane where as ordinary light have vibrations in &#9;single plane&#10;() Polarized light and ordinary light wave have opposite vibrations in the space .&#10;() Polarized light have vibrations at 90o to the ordinary light wave vibrations.&#10;&#10;2. What do you understand by polarized light and the plane of polarization?&#10;(x) Polarized light wave vibrations confined to single plane and plane of polarization is the plane in &#9; which the vector along which the light wave vibrates lies.&#10;() Polarized light wave vibrations confined to more than one plane and plane of polarization is the    &#9;  plane in which the vector along which the light wave vibrates lies.&#10;() Polarized light wave vibrations confined to more than one plane and plane of polarization is the   &#9; plane at right angle to the vector along which the light wave vibrates lies.&#10;() Polarized light wave vibrations confined to single plane and plane of polarization is the plane at &#9; right angle to the vector along which the light wave vibrates lies&#10;&#10;3. What are the factors on which the optical activity of a substance depends?&#10;() Temperature, wavelength of light used, concentration of the substance.&#10;(x) Temperature, wavelength of light used, concentration of substance and length of polarimeter tube.&#10;() Wavelength of light used and concentration of substance.&#10;() Temperature, wavelength of light used, and length of polarimeter tube.&#10;&#10;4. How does the optical activity depend on the state of the substance?&#10;() If the compound is present in (+) form, it rotates plane polarized light in anticlockwise direction &#9;  and if it is present in (-) form, it rotates plane polarized light in clockwise direction with &#9; &#9;equal magnitude.&#10;() If the compound is present in (+) form it rotates plane polarized light in clockwise direction and &#9; if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with &#9; &#9;different magnitude.&#10;(x) If the compound is present in (+) form it rotates plane polarized light in clockwise direction and &#9; if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with same &#9;magnitude.&#10;() Both rotates the plane polarized light in same direction with equal magnitude.&#10;&#10;5. Given that (R)-2-bromobutane has a specific rotation of -23.1o ,what is the specific rotation of   &#9; (S)-2-bromobutane?&#10;() +20.1o.&#10;() +26.1o.&#10;(x) +23.1o.&#10;() +29.1o.&#10;  &#10;6. Which isomer is dominant in a mixture of (R)- and (S)-2-bromobutane whose specific rotation was found to be -9.2o ?&#10;() Both R and S enantiomers are found in equal proportions.&#10;(x) The negative sign indicates that the R enantiomer is the dominant one.&#10;() The negative sign indicates that the S enantiomer is the dominant one.&#10;() None of the above options are correct.&#10;  &#10;">
-
-<p>1. How does polarized light differ from the ordinary light?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Polarized light have vibrations in single plane where as ordinary light have vibrations in more  	 than one plane .</choice>
-    <choice correct="false">Polarized light have vibrations in more than one plane where as ordinary light have vibrations in 	single plane</choice>
-    <choice correct="false">Polarized light and ordinary light wave have opposite vibrations in the space .</choice>
-    <choice correct="false">Polarized light have vibrations at 90o to the ordinary light wave vibrations.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>2. What do you understand by polarized light and the plane of polarization?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="true">Polarized light wave vibrations confined to single plane and plane of polarization is the plane in 	 which the vector along which the light wave vibrates lies.</choice>
-    <choice correct="false">Polarized light wave vibrations confined to more than one plane and plane of polarization is the    	  plane in which the vector along which the light wave vibrates lies.</choice>
-    <choice correct="false">Polarized light wave vibrations confined to more than one plane and plane of polarization is the   	 plane at right angle to the vector along which the light wave vibrates lies.</choice>
-    <choice correct="false">Polarized light wave vibrations confined to single plane and plane of polarization is the plane at 	 right angle to the vector along which the light wave vibrates lies</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>3. What are the factors on which the optical activity of a substance depends?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Temperature, wavelength of light used, concentration of the substance.</choice>
-    <choice correct="true">Temperature, wavelength of light used, concentration of substance and length of polarimeter tube.</choice>
-    <choice correct="false">Wavelength of light used and concentration of substance.</choice>
-    <choice correct="false">Temperature, wavelength of light used, and length of polarimeter tube.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>4. How does the optical activity depend on the state of the substance?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">If the compound is present in (+) form, it rotates plane polarized light in anticlockwise direction 	  and if it is present in (-) form, it rotates plane polarized light in clockwise direction with 	 	equal magnitude.</choice>
-    <choice correct="false">If the compound is present in (+) form it rotates plane polarized light in clockwise direction and 	 if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with 	 	different magnitude.</choice>
-    <choice correct="true">If the compound is present in (+) form it rotates plane polarized light in clockwise direction and 	 if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with same 	magnitude.</choice>
-    <choice correct="false">Both rotates the plane polarized light in same direction with equal magnitude.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>5. Given that (R)-2-bromobutane has a specific rotation of -23.1o ,what is the specific rotation of   	 (S)-2-bromobutane?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">+20.1o.</choice>
-    <choice correct="false">+26.1o.</choice>
-    <choice correct="true">+23.1o.</choice>
-    <choice correct="false">+29.1o.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>  </p>
-<p>6. Which isomer is dominant in a mixture of (R)- and (S)-2-bromobutane whose specific rotation was found to be -9.2o ?</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">Both R and S enantiomers are found in equal proportions.</choice>
-    <choice correct="true">The negative sign indicates that the R enantiomer is the dominant one.</choice>
-    <choice correct="false">The negative sign indicates that the S enantiomer is the dominant one.</choice>
-    <choice correct="false">None of the above options are correct.</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>  </p>
-
+  <p>1. How does polarized light differ from the ordinary light?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Polarized light have vibrations in single plane where as ordinary light have vibrations in more  	 than one plane .</choice>
+      <choice correct="false">Polarized light have vibrations in more than one plane where as ordinary light have vibrations in 	single plane</choice>
+      <choice correct="false">Polarized light and ordinary light wave have opposite vibrations in the space .</choice>
+      <choice correct="false">Polarized light have vibrations at 90o to the ordinary light wave vibrations.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>2. What do you understand by polarized light and the plane of polarization?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="true">Polarized light wave vibrations confined to single plane and plane of polarization is the plane in 	 which the vector along which the light wave vibrates lies.</choice>
+      <choice correct="false">Polarized light wave vibrations confined to more than one plane and plane of polarization is the    	  plane in which the vector along which the light wave vibrates lies.</choice>
+      <choice correct="false">Polarized light wave vibrations confined to more than one plane and plane of polarization is the   	 plane at right angle to the vector along which the light wave vibrates lies.</choice>
+      <choice correct="false">Polarized light wave vibrations confined to single plane and plane of polarization is the plane at 	 right angle to the vector along which the light wave vibrates lies</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>3. What are the factors on which the optical activity of a substance depends?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Temperature, wavelength of light used, concentration of the substance.</choice>
+      <choice correct="true">Temperature, wavelength of light used, concentration of substance and length of polarimeter tube.</choice>
+      <choice correct="false">Wavelength of light used and concentration of substance.</choice>
+      <choice correct="false">Temperature, wavelength of light used, and length of polarimeter tube.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>4. How does the optical activity depend on the state of the substance?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">If the compound is present in (+) form, it rotates plane polarized light in anticlockwise direction 	  and if it is present in (-) form, it rotates plane polarized light in clockwise direction with 	 	equal magnitude.</choice>
+      <choice correct="false">If the compound is present in (+) form it rotates plane polarized light in clockwise direction and 	 if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with 	 	different magnitude.</choice>
+      <choice correct="true">If the compound is present in (+) form it rotates plane polarized light in clockwise direction and 	 if it is present in (-) form, it rotates plane polarized light in anticlockwise direction with same 	magnitude.</choice>
+      <choice correct="false">Both rotates the plane polarized light in same direction with equal magnitude.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>5. Given that (R)-2-bromobutane has a specific rotation of -23.1o ,what is the specific rotation of   	 (S)-2-bromobutane?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">+20.1o.</choice>
+      <choice correct="false">+26.1o.</choice>
+      <choice correct="true">+23.1o.</choice>
+      <choice correct="false">+29.1o.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
+  <p>6. Which isomer is dominant in a mixture of (R)- and (S)-2-bromobutane whose specific rotation was found to be -9.2o ?</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">Both R and S enantiomers are found in equal proportions.</choice>
+      <choice correct="true">The negative sign indicates that the R enantiomer is the dominant one.</choice>
+      <choice correct="false">The negative sign indicates that the S enantiomer is the dominant one.</choice>
+      <choice correct="false">None of the above options are correct.</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>  </p>
 </problem>
